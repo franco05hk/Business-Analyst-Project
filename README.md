@@ -13,11 +13,11 @@ This repository showcases my work on a comprehensive written test for a Business
 
 3. **DATA ANALYSIS:** Identification and communication of mistakes in a client's data import template.
 
-### 4. Behavioral Interview 🤔
+### Behavioral Interview 🤔
    - Responses to questions about challenging the status quo, handling failure, and decision-making between quality and deadlines. 
 
 ## Navigation 🗺️
-- Access each case interview by exploring the corresponding PDF file.
+- Access each case interview by exploring the PDF file.
 
 ## Feedback 📣
 - Feedback and suggestions are highly welcomed. Please feel free to reach out for any additional information or clarification.
