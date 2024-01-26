@@ -17,7 +17,8 @@ This repository showcases my work on a comprehensive written test for a Business
    - Responses to questions about challenging the status quo, handling failure, and decision-making between quality and deadlines. 
 
 ## Navigation 🗺️
-- Access each case interview by exploring the PDF file.
+- Questions: Access Business Analyst test.pdf
+- Access each case interview by exploring the PDF file: Business Analyst - Case & Behavioural Interview -Franco.pdf.
 
 ## Feedback 📣
 - Feedback and suggestions are highly welcomed. Please feel free to reach out for any additional information or clarification.
