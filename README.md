@@ -11,9 +11,15 @@ Project Structure 🏗️:
 
 Case Interviews 📊:
 
-1.BORROWER PORTAL: Detailed design of a lending client's portal, addressing interactions, user journey, and UI for different loan types.
-2.WORKFLOW: Approach to optimizing a critical workflow to reduce delays in approval and funding.
-3.DATA ANALYSIS: Identification and communication of mistakes in a client's data import template.
+1.BORROWER PORTAL: 
+Detailed design of a lending client's portal, addressing interactions, user journey, and UI for different loan types.
+
+2.WORKFLOW: 
+Approach to optimizing a critical workflow to reduce delays in approval and funding.
+
+3.DATA ANALYSIS: 
+Identification and communication of mistakes in a client's data import template.
+
 4.Behavioral Interview 🤔:
 
 Responses to questions about challenging the status quo, handling failure, and decision-making between quality and deadlines.
