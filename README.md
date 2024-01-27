@@ -9,7 +9,7 @@ This repository showcases my work on a comprehensive written test for a Business
 
 1. **BORROWER PORTAL:** Detailed ideation of a lending client's portal, addressing interactions, key characteristics.
 
-2. **WORKFLOW:** Design a User Interface for the happy workflow.
+2. **WORKFLOW DESIGN:** Showcase product User Interface for a happy flow user journey.
 
 3. **DATA ANALYSIS:** Identification and communication of mistakes in a client's data import template.
 
