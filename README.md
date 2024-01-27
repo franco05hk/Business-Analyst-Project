@@ -5,11 +5,11 @@ This repository showcases my work on a comprehensive written test for a Business
 
 ## Project Structure 🏗️
 
-### Case Interviews 📊
+### Case Study 📊
 
-1. **BORROWER PORTAL:** Detailed design of a lending client's portal, addressing interactions, user journey, and UI for different loan types.
+1. **BORROWER PORTAL:** Detailed ideation of a lending client's portal, addressing interactions, key characteristics.
 
-2. **WORKFLOW:** Approach to optimizing a critical workflow to reduce delays in approval and funding.
+2. **WORKFLOW:** Design a User Interface for the happy workflow.
 
 3. **DATA ANALYSIS:** Identification and communication of mistakes in a client's data import template.
 
